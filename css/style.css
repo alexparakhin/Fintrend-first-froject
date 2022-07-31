@@ -390,7 +390,7 @@ body {
 }
 .top__sign::after {
 	display: inline-block;
-	content: url(./images/main/arrow.svg);
+	content: url(../images/main/arrow.svg);
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -467,7 +467,7 @@ body {
 .fintrend__item::after {
 	display: inline-block;
 	position: absolute;
-	content: url(images/main/social/close.png);
+	content: url(../images/main/social/close.png);
 	top: 38%;
 	right: 5%;
 	width: 16px;
@@ -706,7 +706,7 @@ body {
 }
 .sign-left::before {
 	display: inline-block;
-	content: url(images/main/newtab/arrow1.svg);
+	content: url(../images/main/newtab/arrow1.svg);
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -715,7 +715,7 @@ body {
 }
 .sign-right::after {
 	display: inline-block;
-	content: url(images/main/newtab/arrow1.svg);
+	content: url(../images/main/newtab/arrow1.svg);
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -1389,7 +1389,7 @@ body {
 }
 
 .card__list__item::before {
-	content: url(images/main/prices/li.svg);
+	content: url(../images/main/prices/li.svg);
 	display: inline-block;
 	top: 0px;
 	left: 0;
@@ -1759,7 +1759,7 @@ input:checked + .slider:before {
 	color: #000;
 }
 .footer__logo-link::before{
-	content: url(images/footer/footerlogo.svg);
+	content: url(../images/footer/footerlogo.svg);
 	display: inline-block;
 	top: 0;
 	left: 0;
