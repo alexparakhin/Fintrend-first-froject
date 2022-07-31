@@ -399,10 +399,6 @@ body {
 }
 
 
-/*.main {
-	flex: 1 1 auto;
-}*/
-
 @media screen and (max-width: 1310px) {
 	.top {
 		margin: 0 0 60px 0;
@@ -1087,9 +1083,6 @@ body {
 	width: 124px;
 	height: 124px;
 }
-/*.social__item:hover {
-	margin: -8px 0 8px;
-}*/
 .social__item:active {
 	background-color: #A8FF35;
 }
@@ -1825,28 +1818,4 @@ input:checked + .slider:before {
 		margin: 0px;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
