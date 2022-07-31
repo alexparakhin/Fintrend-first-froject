@@ -390,7 +390,7 @@ body {
 }
 .top__sign::after {
 	display: inline-block;
-	content: url(images/main/arrow.svg);
+	content: url(./images/main/arrow.svg);
 	top: 0;
 	left: 0;
 	width: 100%;
